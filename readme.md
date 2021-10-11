@@ -1,5 +1,5 @@
 # Exploring Elliptic Curves with Python
-
+```
 ▓█████▄  ▄▄▄       ███▄    █   ▄████ ▓█████  ██▀███
 ▒██▀ ██▌▒████▄     ██ ▀█   █  ██▒ ▀█▒▓█   ▀ ▓██ ▒ ██▒
 ░██   █▌▒██  ▀█▄  ▓██  ▀█ ██▒▒██░▄▄▄░▒███   ▓██ ░▄█ ▒
@@ -10,7 +10,7 @@
  ░ ░  ░   ░   ▒      ░   ░ ░ ░ ░   ░    ░     ░░   ░
    ░          ░  ░         ░       ░    ░  ░   ░
  ░
-
+```
 This code is for DEMO and EDUCATIONAL purposes only. It is NOT SECURE!
 
 If you are looking for a package for actual cryptographic usage, check out [pyca/cryptography](https://cryptography.io/en/latest/).
